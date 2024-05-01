@@ -1,0 +1,83 @@
+{
+    "success": true,
+    "message": "All branches fetched successfully.",
+    "data": [
+        {
+            "_id": "6632800ac5d97a27cba9925e",
+            "branchName": "CS",
+            "branchStrength": 10,
+            "branchCode": "CS",
+            "__v": 0
+        },
+        {
+            "_id": "6632800ac5d97a27cba9925f",
+            "branchName": "IT",
+            "branchStrength": 10,
+            "branchCode": "IT",
+            "__v": 0
+        },
+        {
+            "_id": "6632800ac5d97a27cba99260",
+            "branchName": "EC",
+            "branchStrength": 10,
+            "branchCode": "EC",
+            "__v": 0
+        },
+        {
+            "_id": "6632800ac5d97a27cba99261",
+            "branchName": "EE",
+            "branchStrength": 10,
+            "branchCode": "EE",
+            "__v": 0
+        },
+        {
+            "_id": "6632800ac5d97a27cba99262",
+            "branchName": "IC",
+            "branchStrength": 10,
+            "branchCode": "IC",
+            "__v": 0
+        },
+        {
+            "_id": "6632800ac5d97a27cba99263",
+            "branchName": "IP",
+            "branchStrength": 10,
+            "branchCode": "IP",
+            "__v": 0
+        },
+        {
+            "_id": "6632800ac5d97a27cba99264",
+            "branchName": "CE",
+            "branchStrength": 10,
+            "branchCode": "CE",
+            "__v": 0
+        },
+        {
+            "_id": "6632800ac5d97a27cba99265",
+            "branchName": "TT",
+            "branchStrength": 10,
+            "branchCode": "TT",
+            "__v": 0
+        },
+        {
+            "_id": "6632800ac5d97a27cba99266",
+            "branchName": "BT",
+            "branchStrength": 10,
+            "branchCode": "BT",
+            "__v": 0
+        },
+        {
+            "_id": "6632800ac5d97a27cba99267",
+            "branchName": "ME",
+            "branchStrength": 10,
+            "branchCode": "ME",
+            "__v": 0
+        },
+        {
+            "_id": "6632800ac5d97a27cba99268",
+            "branchName": "CH",
+            "branchStrength": 10,
+            "branchCode": "CH",
+            "__v": 0
+        }
+    ]
+}

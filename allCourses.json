@@ -1,0 +1,665 @@
+{
+    "success": true,
+    "message": "All courses fetched successfully.",
+    "data": [
+        {
+            "_id": "663287585095d4e773a20318",
+            "courseTitle": "CS101",
+            "courseCode": "CS101",
+            "branchCode": "CS",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                1,
+                6,
+                2,
+                8,
+                3,
+                7,
+                5
+            ],
+            "oeAllotted": [
+                65,
+                42,
+                80
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20319",
+            "courseTitle": "CS102",
+            "courseCode": "CS102",
+            "branchCode": "CS",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                2,
+                7,
+                5,
+                10,
+                4,
+                9
+            ],
+            "oeAllotted": [
+                21,
+                66,
+                41,
+                15
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a2031a",
+            "courseTitle": "CS103",
+            "courseCode": "CS103",
+            "branchCode": "CS",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                10
+            ],
+            "oeAllotted": [
+                24,
+                14,
+                64,
+                87,
+                40,
+                37,
+                78,
+                90,
+                95
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a2031b",
+            "courseTitle": "IT101",
+            "courseCode": "IT101",
+            "branchCode": "IT",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                14,
+                15,
+                17,
+                13,
+                12,
+                16,
+                18
+            ],
+            "oeAllotted": [
+                80,
+                102,
+                37
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a2031c",
+            "courseTitle": "IT102",
+            "courseCode": "IT102",
+            "branchCode": "IT",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                17,
+                13,
+                16,
+                18,
+                19,
+                11,
+                20
+            ],
+            "oeAllotted": [
+                41,
+                6,
+                103
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a2031d",
+            "courseTitle": "IT103",
+            "courseCode": "IT103",
+            "branchCode": "IT",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [],
+            "oeAllotted": [
+                1,
+                2,
+                99,
+                87,
+                97,
+                94,
+                104,
+                48,
+                77,
+                96
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a2031e",
+            "courseTitle": "EC101",
+            "courseCode": "EC101",
+            "branchCode": "EC",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                21,
+                24,
+                26,
+                30,
+                29,
+                25,
+                27
+            ],
+            "oeAllotted": [],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a2031f",
+            "courseTitle": "EC102",
+            "courseCode": "EC102",
+            "branchCode": "EC",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                29,
+                25,
+                27,
+                28,
+                23,
+                22
+            ],
+            "oeAllotted": [],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20320",
+            "courseTitle": "EC103",
+            "courseCode": "EC103",
+            "branchCode": "EC",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [],
+            "oeAllotted": [],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20321",
+            "courseTitle": "IC101",
+            "courseCode": "IC101",
+            "branchCode": "IC",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                103,
+                102,
+                104,
+                108,
+                107,
+                101,
+                106
+            ],
+            "oeAllotted": [],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20322",
+            "courseTitle": "IC102",
+            "courseCode": "IC102",
+            "branchCode": "IC",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                102,
+                104,
+                106,
+                109,
+                110,
+                105
+            ],
+            "oeAllotted": [],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20323",
+            "courseTitle": "IC103",
+            "courseCode": "IC103",
+            "branchCode": "IC",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                109
+            ],
+            "oeAllotted": [],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20324",
+            "courseTitle": "EE101",
+            "courseCode": "EE101",
+            "branchCode": "EE",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                40,
+                37,
+                39,
+                35,
+                38,
+                36,
+                31
+            ],
+            "oeAllotted": [
+                6,
+                97,
+                94
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20325",
+            "courseTitle": "EE102",
+            "courseCode": "EE102",
+            "branchCode": "EE",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                40,
+                37,
+                36,
+                31,
+                33,
+                34,
+                32
+            ],
+            "oeAllotted": [
+                99,
+                90,
+                17
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20326",
+            "courseTitle": "EE103",
+            "courseCode": "EE103",
+            "branchCode": "EE",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                32
+            ],
+            "oeAllotted": [
+                15,
+                104,
+                60,
+                8,
+                95,
+                62,
+                69,
+                88,
+                29
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20327",
+            "courseTitle": "IP101",
+            "courseCode": "IP101",
+            "branchCode": "IP",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                99,
+                97,
+                94,
+                96,
+                95,
+                93,
+                92
+            ],
+            "oeAllotted": [],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20328",
+            "courseTitle": "IP102",
+            "courseCode": "IP102",
+            "branchCode": "IP",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                97,
+                96,
+                98,
+                100,
+                91
+            ],
+            "oeAllotted": [],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20329",
+            "courseTitle": "IP103",
+            "courseCode": "IP103",
+            "branchCode": "IP",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [],
+            "oeAllotted": [],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a2032a",
+            "courseTitle": "ME101",
+            "courseCode": "ME101",
+            "branchCode": "ME",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                42,
+                41,
+                48,
+                45,
+                49,
+                44,
+                46
+            ],
+            "oeAllotted": [
+                39,
+                96,
+                13
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a2032b",
+            "courseTitle": "ME102",
+            "courseCode": "ME102",
+            "branchCode": "ME",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                49,
+                44,
+                46,
+                47,
+                43,
+                50
+            ],
+            "oeAllotted": [
+                40,
+                26,
+                108,
+                74
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a2032c",
+            "courseTitle": "ME103",
+            "courseCode": "ME103",
+            "branchCode": "ME",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                47,
+                50
+            ],
+            "oeAllotted": [
+                75,
+                51,
+                71,
+                76,
+                36,
+                67,
+                89,
+                106
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a2032e",
+            "courseTitle": "BT102",
+            "courseCode": "BT102",
+            "branchCode": "BT",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                80,
+                78,
+                74,
+                75,
+                73,
+                76,
+                79
+            ],
+            "oeAllotted": [
+                107,
+                55,
+                85
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a2032f",
+            "courseTitle": "BT103",
+            "courseCode": "BT103",
+            "branchCode": "BT",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                72
+            ],
+            "oeAllotted": [
+                53,
+                35,
+                27,
+                49,
+                31,
+                81,
+                44,
+                10,
+                18
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20330",
+            "courseTitle": "CE101",
+            "courseCode": "CE101",
+            "branchCode": "CE",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                60,
+                55,
+                53,
+                51,
+                57,
+                58,
+                56
+            ],
+            "oeAllotted": [
+                13,
+                88,
+                29
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20331",
+            "courseTitle": "CE102",
+            "courseCode": "CE102",
+            "branchCode": "CE",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                60,
+                55,
+                53,
+                51,
+                58,
+                56,
+                52
+            ],
+            "oeAllotted": [
+                86,
+                107,
+                75
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20332",
+            "courseTitle": "CE103",
+            "courseCode": "CE103",
+            "branchCode": "CE",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                54,
+                59
+            ],
+            "oeAllotted": [
+                108,
+                30,
+                93,
+                35,
+                85,
+                73,
+                84,
+                27
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20333",
+            "courseTitle": "TT101",
+            "courseCode": "TT101",
+            "branchCode": "TT",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                87,
+                90,
+                86,
+                88,
+                85,
+                84,
+                89
+            ],
+            "oeAllotted": [],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20334",
+            "courseTitle": "TT102",
+            "courseCode": "TT102",
+            "branchCode": "TT",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                86,
+                88,
+                89,
+                81,
+                82,
+                83
+            ],
+            "oeAllotted": [],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20335",
+            "courseTitle": "TT103",
+            "courseCode": "TT103",
+            "branchCode": "TT",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                81,
+                83
+            ],
+            "oeAllotted": [],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20336",
+            "courseTitle": "CH101",
+            "courseCode": "CH101",
+            "branchCode": "CH",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                65,
+                66,
+                64,
+                62,
+                69,
+                63,
+                67
+            ],
+            "oeAllotted": [],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20337",
+            "courseTitle": "CH102",
+            "courseCode": "CH102",
+            "branchCode": "CH",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                66,
+                64,
+                62,
+                61,
+                68,
+                70
+            ],
+            "oeAllotted": [],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20338",
+            "courseTitle": "CH103",
+            "courseCode": "CH103",
+            "branchCode": "CH",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                70
+            ],
+            "oeAllotted": [],
+            "__v": 0
+        },
+        {
+            "_id": "663287585095d4e773a20339",
+            "courseTitle": "BT101",
+            "courseCode": "BT101",
+            "branchCode": "BT",
+            "internal": 7,
+            "total": 10,
+            "deAllotted": [
+                80,
+                78,
+                77,
+                74,
+                75,
+                71,
+                73
+            ],
+            "oeAllotted": [
+                86,
+                25,
+                51
+            ],
+            "__v": 0
+        }
+    ]
+}

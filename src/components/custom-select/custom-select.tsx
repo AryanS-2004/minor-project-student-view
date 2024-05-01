@@ -4,7 +4,7 @@ import toast, { Toaster } from 'react-hot-toast';
 import './custom-select.css'; // Import CSS file for styling
 import { AnimatePresence, motion } from 'framer-motion';
 
-const CustomSelect: React.FC<{ options: SelectOptionInterface[], placeholder: string, name: string, dropdownOpened: string, onChange: React.Dispatch<React.SetStateAction<any>>, setDropdownOpened: React.Dispatch<React.SetStateAction<string>> }> = ({ options, placeholder, onChange, name, dropdownOpened, setDropdownOpened }) => {
+const CustomSelect: React.FC<{ options: any, placeholder: string, name: string, dropdownOpened: string, onChange: React.Dispatch<React.SetStateAction<any>>, setDropdownOpened: React.Dispatch<React.SetStateAction<string>> }> = ({ options, placeholder, onChange, name, dropdownOpened, setDropdownOpened }) => {
     const [selectedOption, setSelectedOption] = useState<{ label: string, value: string } | null>(null);
     const [isOpen, setIsOpen] = useState(false);
 
@@ -47,7 +47,7 @@ const CustomSelect: React.FC<{ options: SelectOptionInterface[], placeholder: st
                         exit={{ opacity: 0, height: 0 }}
                         className="options bg-white z-10 max-h-[300px] overflow-scroll"
                     >
-                        {options.map((option) => (
+                        {options.map((option: any) => (
                             <div
                                 key={option.value}
                                 className={`option ${selectedOption === option ? 'selected' : ''}`}
