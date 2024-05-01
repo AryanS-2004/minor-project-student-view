@@ -1,0 +1,22 @@
+.options {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+.option {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.option:hover {
+    background-color: #e0e0e0;
+}
+
+.option.selected {
+    background-color: #cce5ff;
+}
