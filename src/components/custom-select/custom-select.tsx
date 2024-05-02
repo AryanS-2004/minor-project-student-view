@@ -17,7 +17,6 @@ const CustomSelect: React.FC<{ options: any, placeholder: string, name: string, 
 
     return (
         <div className="relative w-full">
-            <Toaster />
             <div
                 className="p-2 cursor-pointer border border-[#8b8989] border-opacity-50 px-2 py-2 outline-none rounded-lg flex justify-between items-center"
                 onClick={() => {
